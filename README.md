@@ -1,0 +1,1 @@
+This is just a static page of OTT platform conatining the enter email, and get started and showing different sections and the frequently asked section along with questions and the links made with help of HTML and CSS.
